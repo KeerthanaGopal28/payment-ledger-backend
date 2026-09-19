@@ -291,5 +291,3 @@ including:
 * Aggregation pipelines
 * Database indexing
 * API performance testing
-
-```
